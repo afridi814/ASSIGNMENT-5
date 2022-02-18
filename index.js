@@ -51,10 +51,7 @@ const getMySaving = mysaving.value
 const mySaving = document.getElementById("saveupdate").addEventListener("click",function(){
     const mySavingAmount = document.getElementById("save")
     const getMySavingValue = mysaving.value
-    // console.log(getMySavingValue);
-
-    // const percentage = (calIncome.value)*(mysaving.value/100) 
-    // console.log(percentage);
+   
 
 
     
